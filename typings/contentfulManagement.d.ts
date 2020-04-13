@@ -1,5 +1,3 @@
-// import { Agent as httpAgent } from 'http'
-// import { Agent as httpsAgent } from 'https'
 import { httpAgent } from 'http-agent'
 import { httpsAgent } from 'https-agent'
 import { AxiosProxyConfig, AxiosRequestConfig, AxiosResponse } from 'axios'
